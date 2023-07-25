@@ -1,2 +1,2 @@
 # Binary-Search-Tree-Map
-This project was to getting used to implementing trees and travsersing up and down them along with searching for items within the tree
+The main focus of this project was to become proficient in implementing trees, performing traversals both upwards and downwards, and effectively searching for items within the tree.
